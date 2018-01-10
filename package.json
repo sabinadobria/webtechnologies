@@ -1,0 +1,25 @@
+{
+  "name": "sabinawt",
+  "version": "1.0.0",
+  "description": "some httpp basic examples",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabinadobria/webtechnologies.git"
+  },
+  "author": "sabina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabinadobria/webtechnologies/issues"
+  },
+  "homepage": "https://github.com/sabinadobria/webtechnologies#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.22.11"
+  }
+}
